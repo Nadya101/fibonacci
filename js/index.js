@@ -13,3 +13,16 @@ function checkNumFibonacci(numberOfOrder) {
 
 }
 alert(numberOfOrder + '-e число послідовності Фібоначчі дорівнює ' + checkNumFibonacci(numberOfOrder));
+
+
+// //recurs
+// const n = parseInt(prompt("Порядковий номер послідовності Фібоначчі: ", " ..."));
+// function fib(n){
+//   if(n < 2) return n;
+  
+//   return fib(n - 1) + fib(n - 2);
+// }
+// alert(n + "-e число послідовності Фібоначчі дорівнює "+ (fib(n)));
+
+
+
